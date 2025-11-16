@@ -43,7 +43,7 @@ app.get('/', (req, res) => {
         .status {
           margin-top: 1.5rem;
           padding: 0.5rem 1rem;
-          background-color: #22c55e;
+          background-color: #ad0e0eff;
           display: inline-block;
           border-radius: 0.5rem;
           font-weight: bold;

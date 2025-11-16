@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  IMAGE_NAME: tyagi0320/systemresourcemonitor
+  IMAGE_NAME: siddhantsirohi2/DevopsProject
 
 jobs:
   build-and-deploy:
